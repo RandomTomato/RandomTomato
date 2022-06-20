@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Brandon 👋🏻😊
+
+###### Last Updated 20/06/2022
 
 <!--
 **RandomTomato/RandomTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
