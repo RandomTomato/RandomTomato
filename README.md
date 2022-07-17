@@ -1,6 +1,11 @@
-### Hi, I'm Brandon 👋🏻😊
+## Hi, I am Brandon 👋🏻😊
 
-###### Last Updated 20/06/2022
+I am currently studying Information Technology at the University of Adelaide.
+
+- 🌊 I am currently working on a custom pirate themed Minecraft server called [Scavenged Shores](https://scavengedshores.com/)
+- 🎶 I am also working on a Modern Music player using Vue.js & The Electron API.
+
+###### Last Updated 17/07/2022
 
 <!--
 **RandomTomato/RandomTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
